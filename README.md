@@ -1,2 +1,2 @@
 # MS2019REST
-Rest learning project
+Rest training repository 
